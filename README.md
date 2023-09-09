@@ -6,8 +6,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/aayushi-chauhan-2b3b1422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushi-chauhan-2b3b1422a" height="30" width="40" /></a>
 <a href="https://instagram.com/_ayushi.rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ayushi.rana" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ac____07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ac____07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayuu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayuu7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
