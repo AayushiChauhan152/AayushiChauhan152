@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aayushi Chauhan</h1>
 <h3 align="center">A passionate web developer and programmer.</h3>
+<h2>Thanks for visiting my profile.</h2>
 
 
 <h3 align="left">Connect with me:</h3>
