@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayushi Chauhan</h1>
-<h3 align="center">I'm a passionate programmer and web-developer.</h3>
+<h3 align="center">A passionate programmer and developer.</h3>
 
 
 - 📫 How to reach me **ayurana87@gmail.com**
