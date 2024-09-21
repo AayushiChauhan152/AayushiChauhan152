@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1><hr>
+<h1 align="center">Hi there 👋</h1>
 <p>A passionate programmer and developer with an interest in backend development.I specialize in backend technologies using Django in Python and Spring in Java. I'm always excited to explore new technologies.</p>
 
 <h3 align="left">Languages and Tools:</h3>
