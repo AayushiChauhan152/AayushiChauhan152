@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<p align="center">A passionate programmer and developer with an interest in backend development.I specialize in backend technologies using Django in Python and Spring in Java. I'm always excited to explore new technologies.</p>
+<h1 align="center">Hi there 👋</h1><hr>
+<p>A passionate programmer and developer with an interest in backend development.I specialize in backend technologies using Django in Python and Spring in Java. I'm always excited to explore new technologies.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -13,8 +13,6 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
 </p>
 
-- 📫 How to reach me **ayurana87@gmail.com**
-
-
-<h3 align="center">Visitors Count</h3>
-<p align="center">👥 Visitor Badge</p>
+- 📫 Connect Me:
+  <p>E-mail -<a href="ayurana87@gmail.com">ayurana87@gmail.com</a></p>
+  <p>Linkedin-<a href="https://www.linkedin.com/in/aayushi-chauhan-2b3b1422a/">Aayushi Chauhan</a></p>
