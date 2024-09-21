@@ -15,6 +15,7 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
 </p>
 
-- 📫 Connect Me:
-  <p>E-mail -<a href="ayurana87@gmail.com">ayurana87@gmail.com</a></p>
-  <p>Linkedin-<a href="https://www.linkedin.com/in/aayushi-chauhan-2b3b1422a/">Aayushi Chauhan</a></p>
+
+<h3 align="left">📫 Contact Me:</h3>
+  <p>E-mail - <a href="ayurana87@gmail.com"> ayurana87@gmail.com</a></p>
+  <p>Linkedin - <a href="https://www.linkedin.com/in/aayushi-chauhan-2b3b1422a/"> Aayushi Chauhan</a></p>
